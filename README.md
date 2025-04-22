@@ -32,8 +32,11 @@ React-rakendus, mis kasutab [REST Countries API](https://restcountries.com/) and
 https://github.com/markmattik/countriesAPI.git
 
 2. **Paigalda sõltuvused**
+
   ```bash
   npm install
+
 3. **Käivita rakendus**
+
   ```bash
   npm start
