@@ -1,8 +1,8 @@
-# 🌍 Maailma Riigid – React rakendus
+# Maailma Riigid – React rakendus
 
-See projekt on lihtne, kuid funktsionaalne React-rakendus, mis kasutab [REST Countries API](https://restcountries.com/) andmeid riikide info kuvamiseks. Kasutatud on Reacti funktsionaalseid komponente, hooke ning React Routerit, et luua mitmeleheline rakendus.
+React-rakendus, mis kasutab [REST Countries API](https://restcountries.com/) andmeid riikide info kuvamiseks. Kasutatud on Reacti funktsionaalseid komponente, hooke ning React Routerit, et luua mitmeleheline rakendus.
 
-## 🚀 Funktsioonid
+## Funktsioonid
 
 - 🔍 **Otsing:** Kasutaja saab otsida riike nime järgi.
 - 📄 **Riikide loend:** Kuvab leitud riigid nimekirjana koos lippude ja põhiandmetega.
@@ -14,19 +14,26 @@ See projekt on lihtne, kuid funktsionaalne React-rakendus, mis kasutab [REST Cou
   - Pindala
   - Keeled
   - Valuutad
-- 📚 **Pagineerimine:** Riikide loendi jagamine lehekülgede kaupa paremaks kasutajakogemuseks.
-- 📱 **Reaktiivne disain:** Sobib kasutamiseks nii arvutis kui mobiilseadmes.
+- **Pagineerimine:** Riikide loendi jagamine lehekülgede kaupa paremaks kasutajakogemuseks.
 
-## 🛠️ Tehnoloogiad
+
+## Tehnoloogiad
 
 - React (funktsionaalsed komponendid + hooks)
 - React Router
 - REST Countries API
 - CSS
 
-## 📦 Paigaldamine ja käivitamine
+## Paigaldamine ja käivitamine
 
 1. **Klooni repositoorium:**
 
 ```bash
+https://github.com/markmattik/countriesAPI.git
 
+2. **Paigalda sõltuvused**
+  ```bash
+  npm install
+3. **Käivita rakendus**
+  ```bash
+  npm start
