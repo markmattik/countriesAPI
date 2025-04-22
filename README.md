@@ -4,9 +4,9 @@ React-rakendus, mis kasutab [REST Countries API](https://restcountries.com/) and
 
 ## Funktsioonid
 
-- 🔍 **Otsing:** Kasutaja saab otsida riike nime järgi.
-- 📄 **Riikide loend:** Kuvab leitud riigid nimekirjana koos lippude ja põhiandmetega.
-- 🔗 **Detailvaade:** Iga riigi jaoks eraldi leht, mis kuvab:
+- **Otsing:** Kasutaja saab otsida riike nime järgi.
+- **Riikide loend:** Kuvab leitud riigid nimekirjana koos lippude ja põhiandmetega.
+- **Detailvaade:** Iga riigi jaoks eraldi leht, mis kuvab:
   - Nime
   - Lippu
   - Pealinna
